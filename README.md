@@ -2,9 +2,9 @@
 ### Выполнил проект :  Машка
 
 ## Технологии
--HTML
--CSS
--jQuery
--Bootstrap
--Fancybox
--Swiper Slider JS
+- HTML
+- CSS
+- jQuery
+- Bootstrap
+- Fancybox
+- Swiper Slider JS
